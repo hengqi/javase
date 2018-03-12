@@ -23,6 +23,6 @@ public class MyTest1 {
         ~：按位取反
 
          */
-        System.out.println(Integer.toBinaryString(i));
+        System.out.println(Integer.toBinaryString(i));//11111111111111111111111111111011
     }
 }
